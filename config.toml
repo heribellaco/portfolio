@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
 languageCode = "en-us"
-title = "Heriberto Rangel"
+title = "Beto Rangel"
 theme = "influencer-hugo"
 summaryLength = "10"
 paginate = 6
