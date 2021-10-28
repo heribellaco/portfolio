@@ -15,23 +15,23 @@ preview:
     # page preview loop
     - image : "images/about/book_page.png"
     - image : "images/about/book_page2.png"
-    - image : "images/about/book_page.png"
+    - image : "images/about/book_page3.png"
 
   title : "Look Inside the book"
   content : "
   The guide focus on stress, nutrition, herbs, supplements and eye exercises.
 
 
-  Focusing on a holistic view of the body I provide advice directed to help
-  you be more informed, more aware and in control of your condition.
+  Focusing on an holistic view of the body, I provide advice directed to help
+  you be more informed, more aware and in control of your life.
   "
 
   inside:
     # book inside item loop
     - insideItem : "8 Chapters"
-    - insideItem : "Explained Details"
+    - insideItem : "Detailed Instructions"
     - insideItem : "Clear Descriptions"
-    - insideItem : "Best therapies"
+    - insideItem : "Useful Therapies"
 
   # button
   button:
@@ -51,12 +51,12 @@ service:
       
     # service item loop
     - title : "Improve your Health"
-      icon : "ti-rocket" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-eye" # themify icon pack : https://themify.me/themify-icons
       content : "Be resiliant, get help and improve by daily effort."
       
     # service item loop
     - title : "Healthy Vission"
-      icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-apple" # themify icon pack : https://themify.me/themify-icons
       content : "See better and more importantly, feel better."
 
 
@@ -71,33 +71,40 @@ quote:
 ######################### Chapters ##########################
 chapters:
   enable : true
-  title : "Full Chapter Overview"
-  subtitle : "Libero atque veniam molestiae ipsa aliquid quam facilis dolore."
+  title : "Chapter Overview"
+  subtitle : "All about Keratoconus, and general ideas & treatements."
   chapter:
     # chapter preview loop
-    - title : "Chapter 1"
-      content : "Tips on scouting the city and making the most out of your three-month tourist visa."
+    - title : "A Mysterious Disease"
+      content : "Origins and posible causes, hypotesis and general teories about Keratoconus."
 
     # chapter preview loop
-    - title : "Chapter 2"
-      content : "Tips on scouting the city and making the most out of your three-month tourist visa."
+    - title : "Diet and Lifestyle"
+      content : "How to improve our lifestyle to take better care or our eye's and general health."
       
     # chapter preview loop
-    - title : "Chapter 3"
-      content : "Calculating your cost of living, with an overview of NYC neighborhoods and average rent prices. Includes tips on when to move to NYC."
+    - title : "Nutrition"
+      content : "What to eat, supplements, vitamins and minerals. Includes tips on nutrition."
       
     # chapter preview loop
-    - title : "Chapter 4"
-      content : "Calculating your cost of living, with an overview of NYC neighborhoods and average rent prices. Includes tips on when to move to NYC."
+    - title : "The Mind"
+      content : "How what you believe affects your actions, the role of habits in disease."
       
     # chapter preview loop
-    - title : "Chapter 5"
-      content : "Tips on scouting the city and making the most out of your three-month tourist visa."
+    - title : "China"
+      content : "An introduction to traditional Chinese medicine with ideas to implement in your regime."
       
     # chapter preview loop
-    - title : "Chapter 6"
-      content : "Tips on scouting the city and making the most out of your three-month tourist visa."
+    - title : "India"
+      content : "An introduction to India's Ayurveda medicine and Yoga practices to implement in your regime."
 
+    # chapter preview loop
+    - title : "Cleansing"
+      content : "An introduction to improving your metabolism by removing toxins from your body."
+
+    # chapter preview loop
+    - title : "Other alternative therapies"
+      content : "More ideas on Relaxation, Homeopathy, Earthing and Hyperbaric oxygen medicine."  
 
 ########################## Revews ###########################
 reviews:
@@ -138,17 +145,17 @@ reviews:
 devices:
   enable : true
   title : "Read it on your favorite device!"
-  content : "This book offers a unique integrated system of preventive health care discussing nutrition, habits, stress, Chinese medicine, India’s Ayurveda medicine and many more topics of interest to anyone with health problems, so you are empowered and in control of your life and your eye’s health."
+  content : "This book offers a unique integrated system of preventive health care. Discussing nutrition, habits, stress, Chinese medicine, India’s Ayurveda medicine and many more topics of interest to anyone with health problems, so you are empowered and in control of your life and your eye’s health."
   image : "images/about/ipad.jpg"
   feature:
     # feature item loop
     - title : "You will learn"
-      icon : "ti-bar-chart" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-book" # themify icon pack : https://themify.me/themify-icons
       content : "• How to be resilient, face this challenge and avoid progression of keratoconus."
       
     # feature item loop
     - title : "Diet & Life Style advice"
-      icon : "ti-write" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-key" # themify icon pack : https://themify.me/themify-icons
       content : "• Key concepts in nutrition, lifestyle and Diet."
 
 
@@ -165,10 +172,10 @@ author:
   name : "Heriberto Rangel"
   designation : "Writer & Novelty Seeker"
   content : "
-  Heriberto R. is an engineer, developer and guitar fanatic, he loves to improve its health and others people’s health. 
+  Heriberto is an engineer, developer and guitar fanatic, he loves to improve its health and others people’s health. 
 
 
-  he has keratoconus and likes to write about health and self-development, see more about Heriberto at http://heribertorangel.com."
+  He has keratoconus, and likes to write about health and self-development, see more about Heriberto at http://heribertorangel.com."
 
   # signature
   signature : "images/about/2.png"

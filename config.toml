@@ -87,7 +87,7 @@ expire_days = 2
   
 ############################# Footer ########################
 [params.footer]
-content = "Heriberto is an engineer and he loves to improve others people’s health, he has keratoconus and likes to write about health and self-development."
+content = "I like to improve my health. I have keratoconus and write about health and self-development."
 
 ############################# post share ###################
 [[params.share]]
