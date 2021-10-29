@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://heribertorangel.com"
 languageCode = "en-us"
-title = "Heriberto Rangel"
+title = "H. Rangel"
 theme = "influencer-hugo"
 summaryLength = "10"
 paginate = 6
