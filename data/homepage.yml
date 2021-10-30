@@ -1,12 +1,13 @@
 ########################## Banner #############################
 banner:
   enable : true
-  writter : "H. Rangel"
+  writter : "Heriberto R."
   title : "The Keratoconus <br> Health Guide"
   image : "images/about/book.png"
-  content : "A complete guide developed for people with degenerative eye conditions like keratoconus, 
-  keratoglobus or pellucid marginal degeneration."
-  price : "12.93"
+  content : "This book offers a unique integrated view of health care. Discussing nutrition, habits, stress, Chinese medicine, India’s Ayurveda medicine and many more topics of interest to anyone with health problems."
+  price : "15.99"
+  description : "A guide developed for people with degenerative eye conditions like keratoconus, 
+  with focus on holistic and natural therapeutic ideas and practices."
 
 ######################## Book Preview ##########################
 preview:
@@ -31,7 +32,7 @@ preview:
     - insideItem : "8 Chapters"
     - insideItem : "Detailed Instructions"
     - insideItem : "Clear Descriptions"
-    - insideItem : "Useful Therapies"
+    - insideItem : "Useful Therapy"
 
   # button
   button:
@@ -255,4 +256,4 @@ contact:
     - title : "Location"
       icon : "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "Playa Hermosa 524 Mexico, City MEXICO"
+        - listItem : "Playa Hermosa 524 Mexico, City."
