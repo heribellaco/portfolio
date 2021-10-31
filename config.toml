@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://heribertorangel.com"
 languageCode = "en-us"
-title = "H. Rangel"
+title = "Heriberto R."
 theme = "influencer-hugo"
 summaryLength = "20"
 paginate = 6
@@ -34,7 +34,7 @@ paginate = 6
 [menu]
     
   [[menu.main]]
-  name = "About"
+  name = "Book"
   URL = "book"
   weight = 1
   
@@ -61,7 +61,7 @@ paginate = 6
 
 #################### default parameters ################################
 [params]
-logo = ""
+logo = "images/hrangelogo.png"
 home = "Home"
 # Meta data
 description = "This is my portfolio page"
@@ -87,7 +87,7 @@ expire_days = 2
   
 ############################# Footer ########################
 [params.footer]
-content = "I like to improve my health. I have keratoconus and write about health and self-development."
+content = "I have keratoconus, i like to improve my health, and write about self-development."
 
 ############################# post share ###################
 [[params.share]]
@@ -101,11 +101,6 @@ icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
 link = "https://twitter.com/hrangelma/"
 
 [[params.share]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.share]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
+title = "reddit"
+icon = "ti-reddit" # themify icon : https://themify.me/themify-icons
 link = "#"
