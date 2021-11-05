@@ -14,16 +14,15 @@ preview:
   enable : true
   pagePreview:
     # page preview loop
-    - image : "images/about/book_page.png"
     - image : "images/about/book_page2.png"
     - image : "images/about/book_page3.png"
+    - image : "images/about/book_page.png"
 
   title : "Look Inside the book"
   content : "
-  The guide focus on stress, nutrition, herbs, supplements and eye exercises.
+  The guide discuses stress, nutrition, herbs, supplements and eye exercises.
 
-
-  Focusing on an holistic view of the body, I provide advice directed to help
+  Focusing on an holistic view of the body, I give advice directed to help
   you be more informed, more aware and in control of your life.
   "
 
@@ -32,7 +31,7 @@ preview:
     - insideItem : "8 Chapters"
     - insideItem : "Detailed Instructions"
     - insideItem : "Clear Descriptions"
-    - insideItem : "Useful Therapy"
+    - insideItem : "Useful Therapies"
 
   # button
   button:
@@ -77,27 +76,27 @@ chapters:
   chapter:
     # chapter preview loop
     - title : "A Mysterious Disease"
-      content : "Origins and posible causes, hypotesis and general teories about Keratoconus."
+      content : "Origins and posible causes, hypotesis and general theories about Keratoconus."
 
     # chapter preview loop
     - title : "Diet and Lifestyle"
-      content : "How to improve our lifestyle to take better care or our eye's and general health."
+      content : "How to improve your general lifestyle to take better care of your eye's and overall health."
       
     # chapter preview loop
     - title : "Nutrition"
-      content : "What to eat, supplements, vitamins and minerals. Includes tips on nutrition."
+      content : "Ideas on what to eat, what supplements to use, vitamins and minerals. Includes tips on nutrition."
       
     # chapter preview loop
     - title : "The Mind"
-      content : "How what you believe affects your actions, the role of habits in disease."
+      content : "How what you believe affects your actions, how to change, and the role of habits in the developement of disease."
       
     # chapter preview loop
     - title : "China"
-      content : "An introduction to traditional Chinese medicine with ideas to implement in your regime."
+      content : "An introduction to traditional Chinese medicine with ideas to implement in your health regime."
       
     # chapter preview loop
     - title : "India"
-      content : "An introduction to India's Ayurveda medicine and Yoga practices to implement in your regime."
+      content : "An introduction to India's Ayurveda medicine and Yoga practices to implement in your health regime."
 
     # chapter preview loop
     - title : "Cleansing"
@@ -146,13 +145,13 @@ reviews:
 devices:
   enable : true
   title : "Read it on your favorite device!"
-  content : "This book offers a unique integrated system of preventive health care. Discussing nutrition, habits, stress, Chinese medicine, India’s Ayurveda medicine and many more topics of interest to anyone with health problems, so you are empowered and in control of your life and your eye’s health."
+  content : "This book offers a unique integrated system of preventive health care. Discussing many topics of interest to anyone with health problems, so you are empowered and in control of your life and your eye’s health."
   image : "images/about/ipad.jpg"
   feature:
     # feature item loop
     - title : "You will learn"
       icon : "ti-book" # themify icon pack : https://themify.me/themify-icons
-      content : "• How to be resilient, face this challenge and avoid progression of keratoconus."
+      content : "• How to be resilient, face this challenge and delay progression of keratoconus."
       
     # feature item loop
     - title : "Diet & Life Style advice"
@@ -173,10 +172,10 @@ author:
   name : "Heriberto Rangel"
   designation : "Writer & Novelty Seeker"
   content : "
-  Heriberto is an engineer, developer and guitar fanatic, he loves to improve its health and others people’s health. 
+  Heriberto is an engineer and guitar fanatic, he loves to improve its health, and others people’s health. 
 
 
-  He has keratoconus, and likes to write about health and self-development, see more about Heriberto at http://heribertorangel.com."
+  He has keratoconus, and write about health and self-development, learn more at https://keratoconusguide.com"
 
   # signature
   signature : "images/about/2.png"
@@ -237,8 +236,8 @@ blog:
 ################################# Contact ##############################
 contact:
   enable : true
-  title : "Contact Us"
-  subtitle : "Whether you have questions or you would just like to say hello, contact me."
+  title : "Contact"
+  subtitle : "Whether you have questions or you would just like to say hello, write me."
   contactItem:
     # contact Item loop
     - title : "Contact Quickly"
@@ -256,4 +255,4 @@ contact:
     - title : "Location"
       icon : "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "Playa Hermosa 524 Mexico, City."
+        - listItem : "Mexico, City."

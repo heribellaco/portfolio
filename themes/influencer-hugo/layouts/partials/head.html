@@ -14,9 +14,8 @@
   <link rel="stylesheet" href="{{ .URL | absURL }} ">
   {{ end }}
 
-  <!-- snipcart -->
-  <!--<link id="snipcart-theme" type="text/css" href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet"> -->
-  <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.css" />
+  <!-- snipcart--> 
+  <link id="snipcart-theme" type="text/css" href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet">
   
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
