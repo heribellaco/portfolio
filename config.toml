@@ -87,7 +87,7 @@ expire_days = 2
   
 ############################# Footer ########################
 [params.footer]
-content = "I have keratoconus, i like to improve my health, and write about self-development."
+content = "Hi, I have keratoconus and like self-improvement."
 
 ############################# post share ###################
 [[params.share]]
