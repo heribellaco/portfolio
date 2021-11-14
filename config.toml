@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://heribertorangel.com"
 languageCode = "en-us"
-title = "Beto R."
+title = "Heriberto R."
 theme = "influencer-hugo"
 summaryLength = "20"
 paginate = 6
@@ -87,7 +87,7 @@ expire_days = 2
   
 ############################# Footer ########################
 [params.footer]
-content = "Hi, I have keratoconus and like self-improvement."
+content = "Hi, I have keratoconus."
 
 ############################# post share ###################
 [[params.share]]
