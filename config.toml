@@ -67,7 +67,7 @@ home = "Home"
 description = "This is my portfolio page"
 author = "Beto R."
 # Google Analitycs
-googleAnalitycsID = "" # Your ID
+googleAnalitycsID = "UA-136830935-1"
 # copyright
 copyright = "Copyright &copy; 2021 [H. Rangel](https://gethugothemes.com) All Rights Reserved"
 
