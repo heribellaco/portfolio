@@ -18,9 +18,10 @@
   <link rel="stylesheet" href="{{ .URL | absURL }} ">
   {{ end }}
 
-  <!-- snipcart--> 
+  <!-- snipcart 
   <link id="snipcart-theme" type="text/css" href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet">
-  
+  -->
+
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
@@ -28,5 +29,8 @@
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.ico` | absURL }} " type="image/x-icon">
   <link rel="icon" href="{{ `images/favicon.ico` | absURL }} " type="image/x-icon">
+
+  <!--Mailchimp form css-->
+  <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
 </head>
