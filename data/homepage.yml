@@ -163,8 +163,8 @@ devices:
   # button
   button:
     enable : true
-    label : "Purchase on amazon"
-    link : "https://www.amazon.com/dp/B082MB75HW"
+    label : "French version on amazon"
+    link : "https://www.amazon.com/dp/B09HFXX98J" 
 
 ######################################## author #############################
 author:
