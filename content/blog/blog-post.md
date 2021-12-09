@@ -45,7 +45,7 @@ Cascade's hypothesis concludes that abnormal levels of degradation enzymes are t
 
 ### Basic Treatment
 
-To clarify, the basic treatment of _keratoconus_ are contact lenses designed for keratoconus corneas. Essentially, there are three types: corneal lenses, hybrid lenses, and scleral lenses. We have more options to handle this condition than ever, there is no cure, but keratoconus can be managed successfully. [Contact lenses](../../posts/contact-lenses/) might be needed to achieve an acceptable vision. [Scleral contact lenses](../scleral-lenses/)_ are good to handle advanced cases and can be thought of as the last resort before a transplant. Scleral are bigger than regular corneal lenses, they get support on the white part of your eye called the sclera, producing a vault for your cornea filled with solution and tears. Scleral's are an extremely reliable option for people that can’t handle other types of lenses.
+To clarify, the basic treatment of _keratoconus_ are contact lenses designed for keratoconus corneas. Essentially, there are three types: corneal lenses, hybrid lenses, and scleral lenses. We have more options to handle this condition than ever, there is no cure, but keratoconus can be managed successfully. [Contact lenses](../../posts/contact-lenses/) might be needed to achieve an acceptable vision. [Scleral contact lenses](../scleral-lenses/) are good to handle advanced cases and can be thought of as the last resort before a transplant. Scleral are bigger than regular corneal lenses, they get support on the white part of your eye called the sclera, producing a vault for your cornea filled with solution and tears. Scleral's are an extremely reliable option for people that can’t handle other types of lenses.
 
 ### Other treatments
 

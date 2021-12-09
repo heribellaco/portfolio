@@ -64,7 +64,7 @@ paginate = 6
 logo = "images/hrangelogo.png"
 home = "Home"
 # Meta data
-description = "This is my portfolio page"
+description = "This is my home page"
 author = "Beto R."
 # Google Analitycs
 googleAnalitycsID = "UA-136830935-1"
@@ -87,7 +87,7 @@ expire_days = 2
   
 ############################# Footer ########################
 [params.footer]
-content = "Hi, I do have keratoconus."
+content = "Hi, Yes I do have keratoconus."
 
 ############################# post share ###################
 [[params.share]]
