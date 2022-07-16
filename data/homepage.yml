@@ -171,12 +171,9 @@ author:
   enable : true
   image : "images/about/home-1.jpg"
   name : "Heriberto R."
-  designation : "Writer & Novelty Seeker"
+  designation : "Novelty Seeker"
   content : "
-  Heriberto loves to improve its health, and others people’s health. 
-
-
-  He has keratoconus, and write about health and self-development, learn more at https://keratoconusguide.com"
+  Heriberto has keratoconus, and writes about health and self-development, learn more at https://keratoconusguide.netlify.com"
 
   # signature
   signature : "images/about/2.png"
