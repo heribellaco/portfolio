@@ -166,7 +166,7 @@ devices:
     enable : false
     label : "French version on Amazon"
     link : "https://www.amazon.com/dp/B09HFXX98J" 
-   
+  
 
 ######################################## author #############################
 author:
@@ -209,12 +209,12 @@ otherBooks:
   title : "German & French Versions on Amazon"
   book:
     # books loop
-    - image : "images/about/b-2.jpg"
-      link : "https://www.amazon.com/dp/B0B8D97CHZ"
-      
-    # books loop
     - image : "images/about/b-1.jpg"
-      link : "https://www.amazon.com/dp/B09HFXX98J"
+      link : "https://www.amazon.com/dp/B0B85MS5NZ"
+    
+    # books loop
+    - image : "images/about/b-2.jpg"
+      link : "https://www.amazon.com/dp/B098J5BC3Q"
     
 
 ################################ Blog ###################################
