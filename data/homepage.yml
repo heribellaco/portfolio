@@ -163,7 +163,7 @@ devices:
 
   # button
   button:
-    enable : true
+    enable : false
     label : "French version on Amazon"
     link : "https://www.amazon.com/dp/B09HFXX98J" 
    
@@ -179,13 +179,7 @@ author:
 
   # signature
   signature : "images/about/2.png"
-
-    # button
-    button:
-    enable : true
-    label : "German Version Purchase on Amazon"
-    link : "https://www.amazon.com/dp/B0B8D97CHZ"
-
+   
 
 ################################ Awards #####################################
 awards:
@@ -211,26 +205,17 @@ awards:
 
 ############################# Other books ###############################
 otherBooks:
-  enable : false
-  title : "Others books by the author"
-  subtitle : "Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt, similique
-            facere quas blanditiis."
+  enable : true
+  title : "German & French Versions on Amazon"
   book:
     # books loop
-    - image : "images/about/b-1.jpg"
-      link : "#"
-      
-    # books loop
     - image : "images/about/b-2.jpg"
-      link : "#"
+      link : "https://www.amazon.com/dp/B0B8D97CHZ"
       
     # books loop
-    - image : "images/about/b-3.jpg"
-      link : "#"
-      
-    # books loop
-    - image : "images/about/b-4.jpg"
-      link : "#"
+    - image : "images/about/b-1.jpg"
+      link : "https://www.amazon.com/dp/B09HFXX98J"
+    
 
 ################################ Blog ###################################
 blog:
