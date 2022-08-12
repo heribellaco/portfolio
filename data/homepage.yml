@@ -166,9 +166,7 @@ devices:
     enable : true
     label : "French version on Amazon"
     link : "https://www.amazon.com/dp/B09HFXX98J" 
-  # button 
-    label : "German version on Amazon"
-    link : "https://www.amazon.com/dp/B0B8D97CHZ" 
+   
 
 ######################################## author #############################
 author:
@@ -181,6 +179,12 @@ author:
 
   # signature
   signature : "images/about/2.png"
+
+    # button
+    button:
+    enable : true
+    label : "German Version Purchase on Amazon"
+    link : "https://www.amazon.com/dp/B0B8D97CHZ"
 
 
 ################################ Awards #####################################
