@@ -4,7 +4,7 @@ banner:
   writter : "Heriberto R."
   title : "The Keratoconus <br> Health Guide"
   image : "images/about/cover_green.jpg"
-  content : "Here is the first manual for people with degenerative eye conditions like keratoconus. Filled with health advice to improve your health, and your eye's health. Includes Audiobook, pdf, Word and ePub versions 
+  content : "Here is the first manual for people with degenerative eye conditions like keratoconus. Filled with health advice to improve your health, and your eye's health. Includes Audiobook, Pdf, Word and ePub versions 
 (*All Digital Downloads). If you want a physical copy click on the Amazon red buton below."
   price : "22"
   description : "A guide developed for people with degenerative eye conditions like keratoconus, 
@@ -40,15 +40,6 @@ preview:
     label : "Purchase on Amazon"
     link : "https://www.amazon.com/dp/B082MB75HW"
 
-    button:
-    enable : true
-    label : "Purchase on Amazon"
-    link : "https://www.amazon.com/dp/B082MB75HW"
-
-    button:
-    enable : true
-    label : "Purchase on Amazon"
-    link : "https://www.amazon.com/dp/B082MB75HW"
 
 
 ########################## Service ##############################
@@ -173,8 +164,14 @@ devices:
   # button
   button:
     enable : true
-    label : "French version on amazon"
+    label : "French version on Amazon"
     link : "https://www.amazon.com/dp/B09HFXX98J" 
+
+  # button
+  button:
+    enable : true
+    label : "German version on Amazon"
+    link : "https://www.amazon.com/dp/B0B8D97CHZ" 
 
 ######################################## author #############################
 author:
