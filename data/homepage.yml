@@ -166,8 +166,7 @@ devices:
     enable : true
     label : "French version on Amazon"
     link : "https://www.amazon.com/dp/B09HFXX98J" 
-
-  # button
+    
   button:
     enable : true
     label : "German version on Amazon"
