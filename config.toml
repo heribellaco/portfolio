@@ -69,7 +69,7 @@ author = "Beto R."
 # Google Analitycs
 googleAnalitycsID = "UA-136830935-1"
 # copyright
-copyright = "Copyright &copy; 2021 [H. Rangel](https://gethugothemes.com) All Rights Reserved"
+copyright = "Copyright &copy; 2021 [H. Rangel](https://gethugothemes.com) "
 
 # Preloader
 [params.preloader]

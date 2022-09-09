@@ -61,17 +61,25 @@
 
   <div class="container">
     <div class="row footer-btm mt-5 pt-4 border-top">
-      <div class="col-lg-6">
-        <!-- Copyright -->
-        <p class="footer-copy">
-          {{ .Site.Params.copyright | markdownify }}
-        </p>
-      </div>
-      <div class="col-lg-6">
-        <div class="footer-btm-menu text-lg-right">
-          <img src="{{`images/about/cards-3.png` | relURL }}" alt="" class="img-fluid">
-        </div>
-      </div>
+          <div class="col-md-3">
+            <!-- Copyright -->
+            <p class="footer-copy">
+              {{ .Site.Params.copyright | markdownify }}
+            </p>
+          </div>
+            <div class="col-md-5">
+                <div class=“bitcoin”>
+                    <div class="icon-wrap">
+                    <span class="btc"><img src="/static/images/btc.jpg" alt="btc"></span>
+                    </div>
+                  <span class="bitcoin-text"><span>Bitcoin Donate: </span><a href="bitcoin:bc1qddegk6y887jxqevzkk2927entrrlghqxcpzhag">bc1qddegk6y887jxqevzkk2927entrrlghqxcpzhag</a></span>
+                </div>
+            </div>
+            <div class="col-md-4">
+              <div class="footer-btm-menu text-lg-right">
+                <img src="{{`images/about/cards-3.png` | relURL }}" alt="" class="img-fluid">
+              </div>
+            </div>
     </div>
   </div>
 </footer>
@@ -151,6 +159,13 @@
 
 .cookie-box-hide {
   display: none;
+}
+
+.btc {
+  font-size: 2.5rem;
+  color: blueviolet;
+  background-color: aquamarine;
+
 }
 </style>
 {{ end }}
