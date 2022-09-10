@@ -68,13 +68,16 @@
             </p>
           </div>
             <div class="col-md-5">
-                <div class=“bitcoin”>
-                    <div class="icon-wrap">
-                    <span class="btc"><img src="/static/images/btc.jpg" alt="btc"></span>
+                <div class="bitcoin">
+                    <div class="col-md-3">
+                      <div class="btc">
+                        <img src="{{`images/btc.png` | relURL }}" alt="" class="img-fluid">
+                      </div>
                     </div>
                   <span class="bitcoin-text"><span>Bitcoin Donate: </span><a href="bitcoin:bc1qddegk6y887jxqevzkk2927entrrlghqxcpzhag">bc1qddegk6y887jxqevzkk2927entrrlghqxcpzhag</a></span>
                 </div>
             </div>
+
             <div class="col-md-4">
               <div class="footer-btm-menu text-lg-right">
                 <img src="{{`images/about/cards-3.png` | relURL }}" alt="" class="img-fluid">
@@ -162,10 +165,13 @@
 }
 
 .btc {
-  font-size: 2.5rem;
   color: blueviolet;
-  background-color: aquamarine;
-
+  padding: 15px;
+  margin: 10px;
+  border-style: solid;
+  border-radius: 50%;
+  background-color: gold;
 }
+
 </style>
 {{ end }}
