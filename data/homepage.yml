@@ -4,7 +4,7 @@ banner:
   writter : "Heriberto R."
   title : "The Keratoconus <br> Health Guide"
   image : "images/about/cover_green.jpg"
-  content : "Here is the first manual for people with degenerative eye conditions like keratoconus. Filled with health advice to improve your health, and your eye's health. Includes Audiobook, Pdf, Word and ePub versions 
+  content : " The Keratoconus Health Guide is a must have for people who have keratoconus and other corneal diseases. This book focuses on alternative medicine, nutrition and habits that can help improve your symptoms and slow down the progression of keratoconus. Includes Audiobook, Pdf, Word and ePub versions 
 (*All Digital Downloads). If you want a physical copy click on the Amazon red buton below."
   price : "22"
   description : "A guide developed for people with degenerative eye conditions like keratoconus, 
@@ -147,7 +147,7 @@ reviews:
 devices:
   enable : true
   title : "Read it on your favorite device!"
-  content : "This book offers a unique integrated system of preventive health care. Discussing many topics of interest to anyone with health problems, so you are empowered and in control of your life and your eye’s health."
+  content : "If you suffer from keratoconus, or if your spouse or child has been diagnosed with this condition, then The Keratoconus Health Guide is a must-read for you. This book contains an extensive amount of information related to keratoconus including symptoms and treatments as well as general health and how lifestyle choices affect keratoconus."
   image : "images/about/ipad.jpg"
   feature:
     # feature item loop
