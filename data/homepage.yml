@@ -147,7 +147,7 @@ reviews:
 devices:
   enable : true
   title : "Read it on your favorite device!"
-  content : "If you suffer from keratoconus, or if your spouse or child has been diagnosed with this condition, then The Keratoconus Health Guide is a must-read for you. This book contains an extensive amount of information related to keratoconus including alternative treatments as well as general health and how lifestyle choices affect keratoconus."
+  content : "If you suffer from keratoconus, or if your spouse or child has been diagnosed with this condition, then The Keratoconus Health Guide is a must-read for you. This book contains an extensive amount of information including alternative treatments as well as general health and how lifestyle choices affect keratoconus."
   image : "images/about/ipad.jpg"
   feature:
     # feature item loop
