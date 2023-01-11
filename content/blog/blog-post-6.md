@@ -26,7 +26,7 @@ tags:
 type: "post"
 ---
 
-# Five Surprising Things That Can Trigger Keratoconus, and How To Avoid Them: a article about conditions that can cause keratoconus.
+# A article about conditions that can cause keratoconus.
 
 # 
 
@@ -93,7 +93,7 @@ If you think one or more of these behaviors is affecting your corneas
 negatively but aren't sure how best to stop them from doing so---or if
 stopping them isn't going to be enough---it might be time for an eye
 exam with an optometrist or ophthalmologist who specializes in treating
-keratoconus patients like yourself. Checking out our list of doctors
+keratoconus patients like yourself. Checking out a list of doctors
 near you will help to find one who has experience diagnosing their
 patients\' eyesight so that they can prescribe treatment plans
 accordingly.\"
@@ -139,3 +139,5 @@ not everyone with keratoconus will experience every one of these
 triggers, it's important for all of us to be aware of them so we can do
 our best to avoid them and help prevent others from developing this
 condition as well.
+
+Good luck and Happy new Year!
