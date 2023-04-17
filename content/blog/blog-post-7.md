@@ -38,7 +38,7 @@ Eating healthy food is the most important thing you can do for your body. Eating
 
 B2 vitamins, also known as riboflavin, are essential for healthy cell metabolism, helping your body to produce energy from the foods you eat. B2 vitamins also have antioxidant properties, protecting cells from damage caused by free radicals.
 
-2.- ***Avoid sleeping with your contacts***.
+2.- **Avoid sleeping with your contacts**.
 
 Sleeping with your contact lenses can lead to serious eye health issues, including infections and corneal ulcers. Remove contact lenses before sleeping, no matter how tired you may be.  
 
