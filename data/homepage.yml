@@ -63,11 +63,16 @@ service:
 
 
 ######################### Quote #############################
+# quote:
+#   enable : true
+#   quote: "I appreciate all your work, I would also like to thank you for introducing me
+#    into Ekadashi and Ayurvedic medicine, it has changed my fasting and medical game."
+#   quoteBy: "Sergio N."
+
 quote:
-  enable : true
-  quote: "I appreciate all your work, I would also like to thank you for introducing me
-   into Ekadashi and Ayurvedic medicine, it has changed my fasting and medical game."
-  quoteBy: "Sergio N."
+  enable : trua  
+  quote: "Hi..very inspiring article you wrote and I agree with every part. the crazy thing is I’ve been doing nearly all the things you wrote and your article gave me a positive feedback…Thank you and have a great day!!."
+  quoteBy: "Kántor M."  
 
 
 ######################### Chapters ##########################
@@ -110,37 +115,38 @@ chapters:
 
 ########################## Revews ###########################
 reviews:
-  enable : false
+  enable : true
   title : "What people are saying"
-  subtitle : "Amazing reviews illo tenetur laboriosam excepturi velit in, temporibus ab rem dicta sint obcaecati!"
+  subtitle : "Amazing reviews for the guide!"
   review:
     # review item loop
-    - name : "Barrow Hasi"
+    - name : "Sergio N"
       image : "images/client/test-1.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
-      rating : "five" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
-      
-    # review item loop
-    - name : "Nilam Arthur"
-      image : "images/client/test-2.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
+      designation : "Power User"
       rating : "four" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
+      content : "I appreciate all your work, I would also like to thank you for introducing me
+   into Ekadashi and Ayurvedic medicine, it has changed my fasting and medical game."
       
     # review item loop
-    - name : "Barrow Hasi"
-      image : "images/client/test-1.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
-      rating : "five" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
+    # - name : "Nilam Arthur"
+    #   image : "images/client/test-2.jpg" # image size 80*80 px
+    #   designation : "Sunrise ten"
+    #   rating : "four" # rating from one to five
+    #   content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
       
     # review item loop
-    - name : "Nilam Arthur"
-      image : "images/client/test-2.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
-      rating : "four" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
+    # - name : "Barrow Hasi"
+    #   image : "images/client/test-1.jpg" # image size 80*80 px
+    #   designation : "Sunrise ten"
+    #   rating : "five" # rating from one to five
+    #   content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
+      
+    # review item loop
+    # - name : "Nilam Arthur"
+    #   image : "images/client/test-2.jpg" # image size 80*80 px
+    #   designation : "Sunrise ten"
+    #   rating : "four" # rating from one to five
+    #   content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
 
 
 #################################### device ################################
