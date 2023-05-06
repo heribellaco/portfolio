@@ -6,7 +6,7 @@ banner:
   image : "images/about/cover_green.jpg"
   content : " The Keratoconus Health Guide is a must have for people who have keratoconus and other corneal diseases. This book focuses on alternative medicine, nutrition and habits that can help improve your symptoms and slow down the progression of keratoconus. Includes Audiobook, Pdf, Word and ePub versions 
 (*All Digital Downloads). If you want a physical copy click on the Amazon red buton below."
-  price : "22"
+  price : "16"
   description : "A guide developed for people with degenerative eye conditions like keratoconus, 
   with focus on holistic and natural therapeutic ideas and practices."
 
@@ -36,7 +36,7 @@ preview:
 
   # button
   button:
-    enable : true
+    enable : false
     label : "Purchase on Amazon"
     link : "https://www.amazon.com/dp/B082MB75HW"
 
@@ -211,8 +211,13 @@ awards:
 ############################# Other books ###############################
 otherBooks:
   enable : true
-  title : "German & French Versions on Amazon"
+  title : "English,German & French versions on Amazon"
   book:
+
+    # books loop
+    - image : "images/about/b-3.jpg"
+      link : "https://www.amazon.com/dp/B082MB75HW"
+
     # books loop
     - image : "images/about/b-1.jpg"
       link : "https://www.amazon.com/dp/B0B85MS5NZ"
@@ -220,6 +225,8 @@ otherBooks:
     # books loop
     - image : "images/about/b-2.jpg"
       link : "https://www.amazon.com/dp/B098J5BC3Q"
+
+     
     
 
 ################################ Blog ###################################
