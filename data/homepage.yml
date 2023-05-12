@@ -4,8 +4,9 @@ banner:
   writter : "Heriberto R."
   title : "The Keratoconus <br> Health Guide"
   image : "images/about/cover_green.jpg"
-  content : " The Keratoconus Health Guide is a must have for people who have keratoconus and other corneal diseases. This book focuses on alternative medicine, nutrition and habits that can help improve your symptoms and slow down the progression of keratoconus. Includes Audiobook, Pdf, Word and ePub versions 
-(*All Digital Downloads). If you want a physical copy click on the Amazon red buton below."
+  content : "If you're someone who's suffering from keratoconus or any other corneal disease, then the Keratoconus Health Guide is an absolute necessity for you. This comprehensive guide is centered around alternative medicine, nutrition, and healthy habits to alleviate the symptoms of keratoconus. Whether you're looking for practical tips to manage your condition or want to learn more about the underlying causes of keratoconus, this guide has you covered. 
+  The Keratoconus Health Guide comes in a variety of formats, including an audiobook, PDF, Word, and ePub versions, all of which are available for digital download.
+ "
   price : "16"
   description : "A guide developed for people with degenerative eye conditions like keratoconus, 
   with focus on holistic and natural therapeutic ideas and practices."
@@ -24,7 +25,7 @@ preview:
   The guide discuses stress, nutrition, herbs, supplements and eye exercises.
 
   Focusing on an holistic view of the body, I give advice directed to help
-  you be more informed, more aware and in control of your life.
+  you be more informed, more aware and in control of your life. With its clear and concise writing style, it's easy to understand and implement the advice provided.
   "
 
   inside:
@@ -180,7 +181,7 @@ author:
   image : "images/about/home-1.jpg"
   name : "Heriberto R."
   designation : "Developer"
-  content : "I have keratoconus, and write about health and self-development. Hire me! i can build a website like this and edit your podcasts. learn more @ https://keratoconusguide.netlify.app"
+  content : "I have keratoconus, and write about health and self-development. Hire me! i can build a website like this. learn more @ https://keratoconusguide.netlify.app"
 
   # signature
   signature : "images/about/2.png"
