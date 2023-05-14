@@ -25,7 +25,7 @@ preview:
   The guide discuses stress, nutrition, herbs, supplements and eye exercises.
 
   Focusing on an holistic view of the body, I give advice directed to help
-  you be more informed, more aware and in control of your life. With its clear and concise writing style, it's easy to understand and implement the advice provided.
+  you be more informed, aware and in control of your life. With its clear and concise writing style, it's easy to understand and implement the advice provided.
   "
 
   inside:
@@ -64,14 +64,14 @@ service:
 
 
 ######################### Quote #############################
-# quote:
-#   enable : true
-#   quote: "I appreciate all your work, I would also like to thank you for introducing me
-#    into Ekadashi and Ayurvedic medicine, it has changed my fasting and medical game."
-#   quoteBy: "Sergio N."
+quote:
+  enable : false
+  quote: "I appreciate all your work, I would also like to thank you for introducing me
+   into Ekadashi and Ayurvedic medicine, it has changed my fasting and medical game."
+  quoteBy: "Sergio N."
 
 quote:
-  enable : trua  
+  enable : true 
   quote: "Hi..very inspiring article you wrote and I agree with every part. the crazy thing is I’ve been doing nearly all the things you wrote and your article gave me a positive feedback…Thank you and have a great day!!."
   quoteBy: "Kántor M."  
 
@@ -122,9 +122,9 @@ reviews:
   review:
     # review item loop
     - name : "Sergio N"
-      image : "images/client/test-1.jpg" # image size 80*80 px
-      designation : "Power User"
-      rating : "four" # rating from one to five
+      image : "images/client/david.jpg" # image size 80*80 px
+      designation : "User"
+      rating : "three" # rating from one to five
       content : "I appreciate all your work, I would also like to thank you for introducing me
    into Ekadashi and Ayurvedic medicine, it has changed my fasting and medical game."
       
@@ -154,7 +154,7 @@ reviews:
 devices:
   enable : true
   title : "Read it on your favorite device!"
-  content : "If you suffer from keratoconus, or if your spouse or child has been diagnosed with this condition, then The Keratoconus Health Guide is a must-read for you. This book contains an extensive amount of information including alternative treatments as well as general health and how lifestyle choices affect keratoconus."
+  content : "If you or if your spouse or child has been diagnosed with this condition, then The Keratoconus Health Guide is a must-read. This book contains an extensive amount of information including alternative treatments as well as general health and how lifestyle choices affect keratoconus."
   image : "images/about/ipad.jpg"
   feature:
     # feature item loop
@@ -181,7 +181,7 @@ author:
   image : "images/about/home-1.jpg"
   name : "Heriberto R."
   designation : "Developer"
-  content : "I have keratoconus, and write about health and self-development. Hire me! i can build a website like this. learn more @ https://keratoconusguide.netlify.app"
+  content : "I have keratoconus. Hire me! i can build a website like this. learn more @ https://keratoconusguide.netlify.app"
 
   # signature
   signature : "images/about/2.png"
