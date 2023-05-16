@@ -124,7 +124,7 @@ reviews:
     - name : "Sergio N"
       image : "images/client/david.jpg" # image size 80*80 px
       designation : "User"
-      rating : "three" # rating from one to five
+      rating : "four" # rating from one to five
       content : "I appreciate all your work, I would also like to thank you for introducing me
    into Ekadashi and Ayurvedic medicine, it has changed my fasting and medical game."
       
@@ -247,7 +247,7 @@ contact:
     - title : "WhatsApp"
       icon : "ti-headphone-alt" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "+55-32783230"
+        - listItem : "(521)5532783230"
         
     # contact Item loop
     - title : "Email"
