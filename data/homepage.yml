@@ -241,7 +241,7 @@ blog:
 contact:
   enable : true
   title : "Contact"
-  subtitle : "Whether you have questions or you would just like to say hello, write me."
+  subtitle : "Whether you have questions or you would just like to say hello, write to me."
   contactItem:
     # contact Item loop
     - title : "WhatsApp"
