@@ -21,7 +21,7 @@ tags:
   - "Old"
 
 # post type
-type: "post"
+type: "blog"
 ---
 The purpose of this article is to generate awareness of the phenomenon of ophthalmic degenerative diseases like _keratoconus_, and the importance of discovering how we use our eyes, and what we can do apart from getting lenses or other treatments to try to improve our condition.
 
