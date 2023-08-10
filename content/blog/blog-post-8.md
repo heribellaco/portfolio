@@ -23,7 +23,7 @@ type: "post"
 
 Have you heard about keratoconus cross-linking? What if we carry out a Keratoconus natural treatment by consuming riboflavin (vitamin B-2) orally and getting exposure to infrared sunlight by going outdoors? If you are recently diagnosed this could help.
 
-Typically it would require a period of time like a year, to see if your keratoconus is worsening.  Your doctor must see an increment in values from your tests like the Sim'k values or a thinning in your cornea thickness by comparing your previous tests to recent ones. Naturally, this depends on many factors so ask questions and weigh your options, if you are recently diagnosed and your doctor does the cross-linking, he will recommend it to you.
+Usually, it takes about a year to determine if your keratoconus is getting worse. Your doctor will assess changes in values from tests such as the Sim'k values or a reduction in cornea thickness by comparing your recent test results with previous ones. Of course, this assessment depends on various factors, so feel free to ask questions and carefully consider your choices. If you've been recently diagnosed, your doctor will likely recommend cross-linking to you.
 
 Keratoconus usually progresses slowly, find the facts first, you have time! That is why you need to discover the facts and not rush to try to get rid of the problem with your first diagnosis. Start with specialty contact lenses and adapt to them, probably you will require them anyway.  Later when you are sure of the progression get the cross-linking.
 
