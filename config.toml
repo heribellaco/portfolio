@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://heribertorangel.com"
+baseURL = "portfolio.netlify.app"
 languageCode = "en-us"
 title = "Heriberto R."
 theme = "influencer-hugo"
