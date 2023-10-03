@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "portfolio.netlify.app"
+baseURL = "keratoconus-book.netlify.app"
 languageCode = "en-us"
 title = "Heriberto R."
 theme = "influencer-hugo"
