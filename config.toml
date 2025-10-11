@@ -4,8 +4,9 @@ languageCode = "en-us"
 title = "Heriberto R."
 theme = "influencer-hugo"
 summaryLength = "20"
-paginate = 6
-
+ignoreLogs = ['warning-goldmark-raw-html']
+[pagination]
+  pagerSize = 10
 ############################# Plugins ##############################
 [params.plugins]
 

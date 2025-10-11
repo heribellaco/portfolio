@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Heriberto R.</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on Heriberto R.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2023 16:00:31 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Post</title>
+      <link>//localhost:1313/categories/new-post/</link>
+      <pubDate>Sun, 09 Apr 2023 16:00:31 +0000</pubDate>
+      <guid>//localhost:1313/categories/new-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keratoconus</title>
+      <link>//localhost:1313/categories/keratoconus/</link>
+      <pubDate>Mon, 02 Jan 2023 20:30:35 +0000</pubDate>
+      <guid>//localhost:1313/categories/keratoconus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Treatment</title>
+      <link>//localhost:1313/categories/treatment/</link>
+      <pubDate>Sun, 16 Jun 2019 20:06:08 +0000</pubDate>
+      <guid>//localhost:1313/categories/treatment/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
