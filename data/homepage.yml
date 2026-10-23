@@ -4,7 +4,7 @@ banner:
   writter : "Heriberto R."
   title : "The Keratoconus <br> Health Guide"
   image : "images/about/cover_green.jpg"
-  content : "If you're someone who's suffering from keratoconus or any other corneal disease, then the Keratoconus Health Guide is an absolute necessity for you. This comprehensive guide is centered around alternative medicine, nutrition, and healthy habits to alleviate the symptoms of keratoconus. Whether you're looking for practical tips to manage your condition or want to learn more about the underlying causes of keratoconus, this guide has you covered. 
+  content : "If you're suffering from keratoconus or any other corneal disease, then the Keratoconus Health Guide is an absolute necessity for you. This comprehensive guide is centered around alternative medicine, nutrition, and healthy habits to alleviate the symptoms of keratoconus. Whether you're looking for practical tips to manage your condition or want to learn more about the underlying causes of keratoconus, this guide has you covered. 
   The Keratoconus Health Guide includes an audiobook, PDF, Word, and ePub versions, all digital downloads.
  "
   price : "16"
@@ -212,7 +212,7 @@ awards:
 ############################# Other books ###############################
 otherBooks:
   enable : true
-  title : "English,German & French versions on Amazon"
+  title : "English, German, Spanish & French versions on Amazon"
   book:
 
     # books loop
@@ -227,7 +227,9 @@ otherBooks:
     - image : "images/about/b-2.jpg"
       link : "https://www.amazon.com/dp/B098J5BC3Q"
 
-     
+    # books loop
+    - image : "images/about/b-4.jpg"
+      link : "https://www.amazon.com/dp/B0CW1F2CMN" 
     
 
 ################################ Blog ###################################
