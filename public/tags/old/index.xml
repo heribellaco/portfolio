@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Old on Heriberto R.</title>
-    <link>//localhost:1313/tags/old/</link>
+    <link>http://localhost:1313/tags/old/</link>
     <description>Recent content in Old on Heriberto R.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Apr 2020 00:58:07 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/old/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/old/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keratoconus what to do</title>
-      <link>//localhost:1313/blog/blog-post/</link>
+      <link>http://localhost:1313/blog/blog-post/</link>
       <pubDate>Wed, 08 Apr 2020 00:58:07 +0000</pubDate>
-      <guid>//localhost:1313/blog/blog-post/</guid>
+      <guid>http://localhost:1313/blog/blog-post/</guid>
       <description>&lt;p&gt;The purpose of this article is to generate awareness of the phenomenon of ophthalmic degenerative diseases like &lt;em&gt;keratoconus&lt;/em&gt;, and the importance of discovering how we use our eyes, and what we can do apart from getting lenses or other treatments to try to improve our condition.&lt;/p&gt;</description>
     </item>
   </channel>

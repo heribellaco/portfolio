@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "keratoconus-book.netlify.app"
+baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Heriberto R."
 theme = "influencer-hugo"

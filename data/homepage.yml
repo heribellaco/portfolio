@@ -178,13 +178,13 @@ devices:
 ######################################## author #############################
 author:
   enable : true
-  image : "images/about/home-1.jpg"
+  image : "images/about/candidportrait.png"
   name : "Heriberto R."
   designation : "Developer"
   content : "I have keratoconus. Hire me! i can build a website like this. mail: hrangelm@gmail.com"
 
   # signature
-  signature : "images/about/Signature.png"
+  signature : "images/about/whitesignature.png"
    
 
 ################################ Awards #####################################

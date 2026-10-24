@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keratoconus on Heriberto R.</title>
-    <link>//localhost:1313/categories/keratoconus/</link>
+    <link>http://localhost:1313/categories/keratoconus/</link>
     <description>Recent content in Keratoconus on Heriberto R.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Jan 2023 20:30:35 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/keratoconus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/keratoconus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Five Surprising Things That Can Trigger Keratoconus</title>
-      <link>//localhost:1313/blog/blog-post-6/</link>
+      <link>http://localhost:1313/blog/blog-post-6/</link>
       <pubDate>Mon, 02 Jan 2023 20:30:35 +0000</pubDate>
-      <guid>//localhost:1313/blog/blog-post-6/</guid>
+      <guid>http://localhost:1313/blog/blog-post-6/</guid>
       <description>&lt;h1 id=&#34;a-article-about-conditions-that-can-cause-keratoconus&#34;&gt;A article about conditions that can cause keratoconus.&lt;/h1&gt;&#xA;&lt;h1&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;If you have keratoconus, it&#39;s important to learn what factors can&#xA;trigger the condition. These triggers can be anything from allergies to&#xA;rubbing your eyes too much. In this blog post, we&#39;ll discuss five&#xA;surprising things that can cause keratoconus, how they affect your&#xA;vision and how to avoid them if you&#39;re at risk of developing the&#xA;condition yourself.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Keratoconus what to do</title>
-      <link>//localhost:1313/blog/blog-post/</link>
+      <link>http://localhost:1313/blog/blog-post/</link>
       <pubDate>Wed, 08 Apr 2020 00:58:07 +0000</pubDate>
-      <guid>//localhost:1313/blog/blog-post/</guid>
+      <guid>http://localhost:1313/blog/blog-post/</guid>
       <description>&lt;p&gt;The purpose of this article is to generate awareness of the phenomenon of ophthalmic degenerative diseases like &lt;em&gt;keratoconus&lt;/em&gt;, and the importance of discovering how we use our eyes, and what we can do apart from getting lenses or other treatments to try to improve our condition.&lt;/p&gt;</description>
     </item>
     <item>
       <title>keratoconus-little know facts</title>
-      <link>//localhost:1313/blog/blog-post-2/</link>
+      <link>http://localhost:1313/blog/blog-post-2/</link>
       <pubDate>Thu, 02 Jan 2020 20:30:35 +0000</pubDate>
-      <guid>//localhost:1313/blog/blog-post-2/</guid>
+      <guid>http://localhost:1313/blog/blog-post-2/</guid>
       <description>&lt;h2 id=&#34;about-keratoconus&#34;&gt;About Keratoconus&lt;/h2&gt;&#xA;&lt;p&gt;When you say you have keratoconus people just look &lt;em&gt;amazed&lt;/em&gt; at you because they don&amp;rsquo;t have an idea what are you talking about.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Keratoconus natural treatment</title>
-      <link>//localhost:1313/blog/blog-post-8/</link>
+      <link>http://localhost:1313/blog/blog-post-8/</link>
       <pubDate>Sun, 16 Jun 2019 20:06:08 +0000</pubDate>
-      <guid>//localhost:1313/blog/blog-post-8/</guid>
+      <guid>http://localhost:1313/blog/blog-post-8/</guid>
       <description>&lt;p&gt;Have you heard about keratoconus cross-linking? What if we carry out a Keratoconus natural treatment by consuming riboflavin (vitamin B-2) orally and getting exposure to infrared sunlight by going outdoors? If you are recently diagnosed this could help.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New on Heriberto R.</title>
-    <link>//localhost:1313/tags/new/</link>
+    <link>http://localhost:1313/tags/new/</link>
     <description>Recent content in New on Heriberto R.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Jan 2022 18:38:27 -0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/new/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/new/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is rubbing the eyes the cause of Keratoconus?</title>
-      <link>//localhost:1313/blog/blog-post-5/</link>
+      <link>http://localhost:1313/blog/blog-post-5/</link>
       <pubDate>Wed, 12 Jan 2022 18:38:27 -0600</pubDate>
-      <guid>//localhost:1313/blog/blog-post-5/</guid>
+      <guid>http://localhost:1313/blog/blog-post-5/</guid>
       <description>&lt;h3 id=&#34;what-is-keratoconus&#34;&gt;What is Keratoconus?&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Keratoconus is an eye disease that cause distorted vision. It is hard to diagnose, starts in the adolescence and worsens with time. The basic treatment is contact lenses designed for keratoconus, but other options are available like “crosslinking” to strengthen the cornea, intracorneal rings to give more structure to it, and of course a corneal transplant. Glasses or normal contact lenses don’t correct the vision satisfactorily, so activities like reading and driving become impossible. Advanced cases need specialty contact lenses like Scleral lenses.&lt;/p&gt;</description>
     </item>
   </channel>
