@@ -181,10 +181,10 @@ author:
   image : "images/about/home-1.jpg"
   name : "Heriberto R."
   designation : "Developer"
-  content : "I have keratoconus. Hire me! i can build a website like this. mail @ hrangelm@gmail.com"
+  content : "I have keratoconus. Hire me! i can build a website like this. mail: hrangelm@gmail.com"
 
   # signature
-  signature : "images/about/2.png"
+  signature : "images/about/Signature.png"
    
 
 ################################ Awards #####################################
@@ -249,7 +249,7 @@ contact:
     - title : "WhatsApp"
       icon : "ti-headphone-alt" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "(521)5532783230"
+        - listItem : "(521) 5551721655"
         
     # contact Item loop
     - title : "Email"
